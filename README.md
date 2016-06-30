@@ -12,7 +12,7 @@ Connect 4 AI - Artificial Intelligence that wins versus any average player.
 
 Authors- Stephen Nguyen and Nathan Suh
 
-Coded using Java. Requires Linux machine. Runnable with through terminal command "java Main -p1 minimax_stephenn_nathans -p2"
+Coded using Java. Requires Linux machine. Runnable with through terminal command "java Main -p1 minimax_stephenn_nathans". Compile using "javac minimax_stephenn_nathans.java" if needed.
 
 Uses minimax algorithm combined with alpha-beta pruning to speed up decision tree searching, allowing for greater depths to be searched.
 
