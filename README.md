@@ -6,7 +6,7 @@ Authors - Stephen Nguyen and Steven Liu
 
 Implemented using OpenGL libraries and C++. Heavy emphasis on keeping code neat using object-oriented methodology.
 
-Created our own game engine first, with everything including gravity, animation, collision, etc. Then changed into an infinite runner. Challenges related to infinite runner type video games included solving fps drops by only rendering images on screen, getting animations to show certain behaviors, and terrain generation.
+Created our own game engine first, with everything including gravity, animation, collision, etc. Then changed into an infinite runner. Challenges related to infinite runner type video games included solving fps drops by only rendering images on screen, getting animations to show certain behaviors, and random terrain generation.
 
 Connect 4 AI - Artificial Intelligence that wins versus any average player.
 
