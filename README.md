@@ -26,7 +26,7 @@ Note that the AI is not perfect. Perfect AI play would be a guaranteed win if th
 
 Author - Stephen Nguyen
 
-Note: Not actually workable through github because the CSV files from the 2010 NBA season is ~22GB and is required since my program parses through CSV as needed. I've uploaded the code, a picture including all functionalities, and 1 CSV file (1 play) however, to show general ideology.
+Note: Not actually workable through github because the CSV files from the 2010 NBA season is ~22GB and is required since my program parses through CSV as needed. I've uploaded the code, a picture displaying all functionalities, and 1 CSV file (1 play) however, to show general ideology.
 
 Coded using Java. Converts CSV file data given from the NBA 2010 season into an animated play field. Animation alone is helpful for visualization and data anaylsis and is achieved through parsing through the positions of all players during each time period. One CSV file covers 1 play, which means either the ball went out of bounds or was scored. Therefore, each match could have 500+ CSV files and there are 82 total matches.
 
