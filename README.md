@@ -1,6 +1,6 @@
 # Projects
 
-  DASH - Infinite Runner Video Game
+⋅⋅*DASH - Infinite Runner Video Game
 
 Authors - Stephen Nguyen and Steven Liu
 
@@ -10,7 +10,7 @@ Created our own game engine first, with everything including gravity, animation,
 
 
 
-  Connect 4 AI - Artificial Intelligence that wins versus any average player.
+⋅⋅*Connect 4 AI - Artificial Intelligence that wins versus any average player.
 
 Authors - Stephen Nguyen and Nathan Suh
 
@@ -22,7 +22,7 @@ Note that the AI is not perfect. Perfect AI play would be a guaranteed win if th
 
 
 
-  NBA 2010 Statistics - Data Analysis Application
+⋅⋅*NBA 2010 Statistics - Data Analysis Application
 
 Author - Stephen Nguyen
 
